@@ -1,3 +1,3 @@
-# chai and backend series
+#Backend series
 
-video series on backend with javascript
+#Stuff related to backend with javascript
